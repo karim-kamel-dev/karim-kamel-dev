@@ -1,4 +1,4 @@
-![Karim Kamel: I connect dots. Drawing, animation, 3D, film, electronics and code.](banner.png)
+![Karim Kamel: I connect dots. Drawing, animation, 3D, film, electronics and code.](banner.svg)
 
 I make things because I could not find them, or knew I could make a better one. No single niche: the pieces end up in the same place.
 
